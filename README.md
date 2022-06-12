@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">Passionate about coffee and full-stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Up Services and Maxion Wheels**
+- 🔭 I’m currently working on **Up Services and Huia productions**
 
 - 🌱 I’m currently learning **Nodejs, react, python, security, datascience, machine learning**
 
